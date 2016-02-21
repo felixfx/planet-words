@@ -1,0 +1,2 @@
+client/js/*.js
+!client/js/index.js
